@@ -1,0 +1,539 @@
+2025-01-13 01:06:29,136 - Processing batch: ['15302Kara', '86288Gorgen', '18450Fat', '64700Kosker', '48489Fet']
+2025-01-13 01:06:38,562 - 15302Kara: suspended
+2025-01-13 01:06:43,044 - 86288Gorgen: active
+2025-01-13 01:06:47,801 - 18450Fat: suspended
+2025-01-13 01:06:52,085 - 64700Kosker: active
+2025-01-13 01:06:56,679 - 48489Fet: suspended
+2025-01-13 01:07:07,254 - Processing batch: ['75763Haluk', '74608Gelincik', 'serta44512', 'ASert56764', '10989Necla']
+2025-01-13 01:07:16,702 - 75763Haluk: suspended
+2025-01-13 01:07:20,987 - 74608Gelincik: active
+2025-01-13 01:07:26,228 - serta44512: suspended
+2025-01-13 01:07:30,482 - ASert56764: active
+2025-01-13 01:07:34,829 - 10989Necla: active
+2025-01-13 01:07:45,398 - Processing batch: ['54321Bastugay', 'ETerih38358', '27592Gorgen', '70678Coskun', '70443Kara']
+2025-01-13 01:07:54,928 - 54321Bastugay: active
+2025-01-13 01:07:59,364 - ETerih38358: active
+2025-01-13 01:08:04,367 - 27592Gorgen: active
+2025-01-13 01:08:08,765 - 70678Coskun: active
+2025-01-13 01:08:13,099 - 70443Kara: active
+2025-01-13 01:08:23,657 - Processing batch: ['80910Fat', '21769Kosker', 'ASert45046', '21557Haluk', '14614Gelincik']
+2025-01-13 01:08:30,095 - 27592Gorgen: active
+2025-01-13 01:08:30,108 - 86288Gorgen: active
+2025-01-13 01:08:30,115 - 21557Haluk: active
+2025-01-13 01:08:30,116 - 64700Kosker: active
+2025-01-13 01:08:30,118 - 74608Gelincik: active
+2025-01-13 01:08:30,118 - ASert45046: active
+2025-01-13 01:08:30,124 - 18450Fat: active
+2025-01-13 01:08:30,125 - 10989Necla: active
+2025-01-13 01:08:30,127 - 48489Fet: active
+2025-01-13 01:08:30,129 - 15302Kara: active
+2025-01-13 01:08:30,129 - ASert56764: active
+2025-01-13 01:08:30,131 - 21769Kosker: active
+2025-01-13 01:08:30,133 - 80910Fat: active
+2025-01-13 01:08:30,135 - 14614Gelincik: active
+2025-01-13 01:08:30,136 - 54321Bastugay: active
+2025-01-13 01:08:30,140 - ETerih38358: active
+2025-01-13 01:08:30,142 - 70678Coskun: active
+2025-01-13 01:08:30,146 - 70443Kara: active
+2025-01-13 01:08:30,149 - 75763Haluk: active
+2025-01-13 01:08:30,155 - serta44512: active
+2025-01-13 01:08:30,395 - 74585Gorgen: active
+2025-01-13 01:08:30,410 - 99689Haluk: active
+2025-01-13 01:08:30,413 - 27801Kosker: active
+2025-01-13 01:08:30,413 - serta53977: active
+2025-01-13 01:08:30,418 - ETerih99615: active
+2025-01-13 01:08:30,422 - Neriman46684169: active
+2025-01-13 01:08:30,423 - 49874Gorgen: active
+2025-01-13 01:08:30,424 - 13607Fat: active
+2025-01-13 01:08:30,426 - 95480Fet: active
+2025-01-13 01:08:30,432 - 49401Bastugay: active
+2025-01-13 01:08:30,437 - ASert73502: active
+2025-01-13 01:08:30,438 - 25908Fat: active
+2025-01-13 01:08:30,442 - 62950Coskun: active
+2025-01-13 01:08:30,442 - 33503Bastugay: active
+2025-01-13 01:08:30,443 - ETerih67465: active
+2025-01-13 01:08:30,445 - 39458Kara: active
+2025-01-13 01:08:30,445 - 13623Gelincik: active
+2025-01-13 01:08:30,447 - 84137Ahmet: active
+2025-01-13 01:08:30,452 - 51458Coskun: active
+2025-01-13 01:08:30,463 - 88525Ahmet: active
+2025-01-13 01:08:30,699 - ASert98742: active
+2025-01-13 01:08:30,711 - 56518Bastugay: active
+2025-01-13 01:08:30,713 - 26435Gelincik: active
+2025-01-13 01:08:30,718 - 69090Kosker: active
+2025-01-13 01:08:30,721 - 27293Kara: active
+2025-01-13 01:08:30,721 - Ahmet39133: active
+2025-01-13 01:08:30,722 - 57373Gorgen: active
+2025-01-13 01:08:30,727 - 58832Kosker: active
+2025-01-13 01:08:30,727 - 51711Gorgen: active
+2025-01-13 01:08:30,731 - 29048Haluk: active
+2025-01-13 01:08:30,736 - 19996Coskun: active
+2025-01-13 01:08:30,738 - ETerih43913: active
+2025-01-13 01:08:30,743 - ASert647: active
+2025-01-13 01:08:30,744 - 98240Gelincik: active
+2025-01-13 01:08:30,744 - 88243Haluk: active
+2025-01-13 01:08:30,754 - 29009Kara: active
+2025-01-13 01:08:30,756 - 56464Fet: active
+2025-01-13 01:08:30,759 - g17294: active
+2025-01-13 01:08:30,774 - ETerih6700: active
+2025-01-13 01:08:30,779 - 78473Haluk: active
+2025-01-13 01:08:30,998 - ETerih9286: active
+2025-01-13 01:08:30,999 - 36359Coskun: active
+2025-01-13 01:08:31,005 - 38413Kara: active
+2025-01-13 01:08:31,012 - 44117Gorgen: active
+2025-01-13 01:08:31,015 - 78354Bastugay: active
+2025-01-13 01:08:31,016 - 37305Haluk: active
+2025-01-13 01:08:31,027 - 37174Gelincik: active
+2025-01-13 01:08:31,040 - ASert9685: active
+2025-01-13 01:08:31,041 - 74009Nesrim: active
+2025-01-13 01:08:31,046 - 85826Bastugay: active
+2025-01-13 01:08:31,048 - 49092Kara: active
+2025-01-13 01:08:31,048 - 41254Kosker: active
+2025-01-13 01:08:31,054 - 30849Coskun: active
+2025-01-13 01:08:31,064 - 95153Ahmet: active
+2025-01-13 01:08:31,064 - 60094Fet: active
+2025-01-13 01:08:31,066 - ETerih28449: active
+2025-01-13 01:08:31,066 - ASert23329: active
+2025-01-13 01:08:31,079 - 90994Gorgen: active
+2025-01-13 01:08:31,090 - 76719Coskun: active
+2025-01-13 01:08:31,107 - g13353: active
+2025-01-13 01:08:31,289 - 43513Ahmet: active
+2025-01-13 01:08:31,294 - 85550Kara: active
+2025-01-13 01:08:31,299 - 96421Kosker: active
+2025-01-13 01:08:31,301 - 63562Gelincik: active
+2025-01-13 01:08:31,312 - ETerih74587: active
+2025-01-13 01:08:31,317 - 24879Bastugay: active
+2025-01-13 01:08:31,319 - 51685Kara: active
+2025-01-13 01:08:31,321 - Necla33999: active
+2025-01-13 01:08:31,324 - 87968Haluk: active
+2025-01-13 01:08:31,345 - 85518Bastugay: active
+2025-01-13 01:08:31,346 - 89529Gelincik: active
+2025-01-13 01:08:31,348 - 27860Haluk: active
+2025-01-13 01:08:31,348 - 37811Kosker: active
+2025-01-13 01:08:31,351 - 99021Gorgen: active
+2025-01-13 01:08:31,359 - 20482Coskun: active
+2025-01-13 01:08:31,368 - 37079Coskun: active
+2025-01-13 01:08:31,376 - 84930Fet: active
+2025-01-13 01:08:31,391 - ETerih80390: active
+2025-01-13 01:08:31,393 - 98688Gorgen: active
+2025-01-13 01:08:31,393 - 42269Ahmet: active
+2025-01-13 01:08:31,578 - nes6005: active
+2025-01-13 01:08:31,583 - 97126Kara: active
+2025-01-13 01:08:31,587 - 92692Fet: active
+2025-01-13 01:08:31,602 - 58229Haluk: active
+2025-01-13 01:08:31,607 - 24706Haluk: active
+2025-01-13 01:08:31,613 - 72167Gorgen: active
+2025-01-13 01:08:31,615 - 93555Coskun: active
+2025-01-13 01:08:31,618 - 54319Bastugay: active
+2025-01-13 01:08:31,620 - 75524Kara: active
+2025-01-13 01:08:31,647 - 63108Bastugay: active
+2025-01-13 01:08:31,648 - ETerih89066: active
+2025-01-13 01:08:31,648 - 93401Coskun: active
+2025-01-13 01:08:31,651 - 28114Gelincik: active
+2025-01-13 01:08:31,652 - 64972Necla: active
+2025-01-13 01:08:31,656 - 36247Ahmet: active
+2025-01-13 01:08:31,671 - ASert42717: active
+2025-01-13 01:08:31,672 - 51886Gorgen: active
+2025-01-13 01:08:31,679 - 98934Fet: active
+2025-01-13 01:08:31,680 - 99017Ahmet: active
+2025-01-13 01:08:31,680 - 13415Fat: active
+2025-01-13 01:08:31,864 - nes30412: active
+2025-01-13 01:08:31,880 - 46795Gelincik: active
+2025-01-13 01:08:31,888 - 78298Necla: active
+2025-01-13 01:08:31,908 - ETerih73277: active
+2025-01-13 01:08:31,917 - 86166Haluk: active
+2025-01-13 01:08:31,919 - 45988Kara: active
+2025-01-13 01:08:31,921 - 45307Bastugay: active
+2025-01-13 01:08:31,925 - ASert52079: active
+2025-01-13 01:08:31,937 - 18883Coskun: active
+2025-01-13 01:08:31,945 - 95161Kosker: active
+2025-01-13 01:08:31,947 - 86250Fat: active
+2025-01-13 01:08:31,949 - 49753Fet: active
+2025-01-13 01:08:31,963 - ETerih33129: active
+2025-01-13 01:08:31,968 - 95532Gorgen: active
+2025-01-13 01:08:31,984 - 80423Haluk: active
+2025-01-13 01:08:31,986 - 30078Bastugay: active
+2025-01-13 01:08:31,989 - 73540Gelincik: active
+2025-01-13 01:08:31,998 - 32971Kara: active
+2025-01-13 01:08:32,000 - ASert53592: active
+2025-01-13 01:08:32,011 - 34709Necla: active
+2025-01-13 01:08:32,152 - 44767Gorgen: active
+2025-01-13 01:08:32,176 - Kara40628: active
+2025-01-13 01:08:32,197 - 12629Kosker: active
+2025-01-13 01:08:32,197 - 85244Gelincik: active
+2025-01-13 01:08:32,205 - 26498Fet: active
+2025-01-13 01:08:32,207 - 70665Ahmet: active
+2025-01-13 01:08:32,212 - 53820Haluk: active
+2025-01-13 01:08:32,212 - 62318Fat: active
+2025-01-13 01:08:32,224 - ETerih6628: active
+2025-01-13 01:08:32,228 - ASert56396: active
+2025-01-13 01:08:32,235 - 12739Necla: active
+2025-01-13 01:08:32,237 - 13101Gelincik: active
+2025-01-13 01:08:32,246 - 34886Bastugay: active
+2025-01-13 01:08:32,269 - serta57779: active
+2025-01-13 01:08:32,272 - 27340Haluk: active
+2025-01-13 01:08:32,280 - 14598Gorgen: active
+2025-01-13 01:08:32,294 - 83583Coskun: active
+2025-01-13 01:08:32,306 - ASert14389: active
+2025-01-13 01:08:32,310 - 67337Fat: active
+2025-01-13 01:08:32,314 - fet114465: active
+2025-01-13 01:08:32,445 - 85748Gelincik: active
+2025-01-13 01:08:32,476 - 32036Bastugay: active
+2025-01-13 01:08:32,483 - 92380Gorgen: active
+2025-01-13 01:08:32,484 - 62940Ahmet: active
+2025-01-13 01:08:32,487 - 97866Haluk: active
+2025-01-13 01:08:32,510 - 66500Fat: active
+2025-01-13 01:08:32,512 - 20024Necla: active
+2025-01-13 01:08:32,514 - 95587Coskun: active
+2025-01-13 01:08:32,515 - 21753Fet: active
+2025-01-13 01:08:32,519 - 51525Ahmet: active
+2025-01-13 01:08:32,519 - 29528Gelincik: active
+2025-01-13 01:08:32,530 - 20585Gorgen: active
+2025-01-13 01:08:32,545 - 39611Haluk: active
+2025-01-13 01:08:32,563 - 56746Necla: active
+2025-01-13 01:08:32,574 - 65875Bastugay: active
+2025-01-13 01:08:32,596 - 25819Gorgen: active
+2025-01-13 01:08:32,597 - 54472Fat: active
+2025-01-13 01:08:32,598 - 23192Gelincik: active
+2025-01-13 01:08:32,606 - 18538Coskun: active
+2025-01-13 01:08:32,617 - 16973Fet: active
+2025-01-13 01:08:32,765 - 44775Ahmet: active
+2025-01-13 01:08:32,774 - 68717Haluk: active
+2025-01-13 01:08:32,775 - 51657Coskun: active
+2025-01-13 01:08:32,781 - fat177911: active
+2025-01-13 01:08:32,785 - fet167946: active
+2025-01-13 01:08:32,791 - 18995Coskun: active
+2025-01-13 01:08:32,802 - 18853Haluk: active
+2025-01-13 01:08:32,805 - G1748Gelincik: active
+2025-01-13 01:08:32,811 - 98077Fat: active
+2025-01-13 01:08:32,812 - 35008Bastugay: active
+2025-01-13 01:08:32,813 - Necla88624: active
+2025-01-13 01:08:32,819 - g49118: active
+2025-01-13 01:08:32,854 - serta26610: active
+2025-01-13 01:08:32,854 - 51846Fet: active
+2025-01-13 01:08:32,876 - 10229Coskun: active
+2025-01-13 01:08:32,891 - 20642Haluk: active
+2025-01-13 01:08:32,892 - 68680Bastugay: active
+2025-01-13 01:08:32,899 - 47509Necla: active
+2025-01-13 01:08:32,902 - ASert38292: active
+2025-01-13 01:08:32,914 - 35667Kosker: active
+2025-01-13 01:08:32,915 - Processing completed. Results saved to results.txt.
+2025-01-13 01:09:46,632 - 64700Kosker: active
+2025-01-13 01:09:46,725 - 86288Gorgen: active
+2025-01-13 01:09:46,741 - 18450Fat: active
+2025-01-13 01:09:46,741 - 15302Kara: active
+2025-01-13 01:09:46,756 - 48489Fet: active
+2025-01-13 01:09:46,804 - 10989Necla: active
+2025-01-13 01:09:46,928 - 74608Gelincik: active
+2025-01-13 01:09:47,100 - ASert56764: active
+2025-01-13 01:09:47,146 - serta44512: active
+2025-01-13 01:09:47,597 - 75763Haluk: active
+2025-01-13 01:09:52,799 - 54321Bastugay: active
+2025-01-13 01:09:52,940 - ETerih38358: active
+2025-01-13 01:09:53,192 - 27592Gorgen: active
+2025-01-13 01:09:53,288 - 70678Coskun: active
+2025-01-13 01:09:53,745 - 70443Kara: active
+2025-01-13 01:09:53,777 - ASert45046: active
+2025-01-13 01:09:53,937 - 21769Kosker: active
+2025-01-13 01:09:53,967 - 80910Fat: active
+2025-01-13 01:09:53,999 - 14614Gelincik: active
+2025-01-13 01:09:54,092 - 21557Haluk: active
+2025-01-13 01:09:58,849 - serta53977: active
+2025-01-13 01:09:58,942 - 33503Bastugay: active
+2025-01-13 01:09:59,331 - ETerih99615: active
+2025-01-13 01:09:59,894 - 74585Gorgen: active
+2025-01-13 01:10:00,175 - Neriman46684169: active
+2025-01-13 01:10:00,221 - 13607Fat: active
+2025-01-13 01:10:00,423 - 95480Fet: active
+2025-01-13 01:10:00,438 - 51458Coskun: active
+2025-01-13 01:10:00,548 - 13623Gelincik: active
+2025-01-13 01:10:04,841 - 84137Ahmet: active
+2025-01-13 01:10:04,856 - ETerih67465: active
+2025-01-13 01:10:05,108 - 99689Haluk: active
+2025-01-13 01:10:05,969 - ASert73502: active
+2025-01-13 01:10:06,247 - 49874Gorgen: active
+2025-01-13 01:10:06,247 - 49401Bastugay: active
+2025-01-13 01:10:06,702 - 25908Fat: active
+2025-01-13 01:10:06,826 - 39458Kara: active
+2025-01-13 01:10:07,372 - 62950Coskun: active
+2025-01-13 01:10:09,230 - Error processing ETerih43913: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA22EC]
+	(No symbol) [0x00007FF7BFFA21B0]
+	(No symbol) [0x00007FF7BFFB82B1]
+	(No symbol) [0x00007FF7C004EEA2]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:10:09,235 - Error processing 56518Bastugay: Message: disconnected: unable to send message to renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA28EC]
+	(No symbol) [0x00007FF7BFFA285C]
+	(No symbol) [0x00007FF7BFFA0F48]
+	(No symbol) [0x00007FF7BFFA1CFF]
+	(No symbol) [0x00007FF7BFFCA96B]
+	(No symbol) [0x00007FF7BFFBEBC0]
+	(No symbol) [0x00007FF7BFFBEA62]
+	(No symbol) [0x00007FF7C0052759]
+	(No symbol) [0x00007FF7C002F36A]
+	(No symbol) [0x00007FF7C004F584]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:10:09,478 - Error processing 27293Kara: Message: disconnected: Unable to receive message from renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA3972]
+	(No symbol) [0x00007FF7BFFA363A]
+	(No symbol) [0x00007FF7BFFA24F5]
+	(No symbol) [0x00007FF7BFFC45EA]
+	(No symbol) [0x00007FF7C004F467]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:10:33,014 - 15302Kara: active
+2025-01-13 01:10:33,092 - 64700Kosker: active
+2025-01-13 01:10:33,262 - 48489Fet: active
+2025-01-13 01:10:33,309 - 86288Gorgen: active
+2025-01-13 01:10:33,622 - 18450Fat: active
+2025-01-13 01:10:38,582 - 75763Haluk: active
+2025-01-13 01:10:38,690 - 74608Gelincik: active
+2025-01-13 01:10:39,190 - serta44512: active
+2025-01-13 01:10:39,612 - ASert56764: active
+2025-01-13 01:10:39,657 - 10989Necla: active
+2025-01-13 01:11:24,182 - 18450Fat: active
+2025-01-13 01:11:24,951 - 15302Kara: active
+2025-01-13 01:11:24,966 - 74608Gelincik: active
+2025-01-13 01:11:25,245 - serta44512: active
+2025-01-13 01:11:25,261 - 75763Haluk: active
+2025-01-13 01:11:25,276 - ASert56764: active
+2025-01-13 01:11:25,480 - 64700Kosker: active
+2025-01-13 01:11:25,905 - 86288Gorgen: active
+2025-01-13 01:11:26,062 - 48489Fet: active
+2025-01-13 01:11:26,078 - 10989Necla: active
+2025-01-13 01:11:28,433 - Error processing 14614Gelincik: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA22EC]
+	(No symbol) [0x00007FF7BFFA21B0]
+	(No symbol) [0x00007FF7BFFB82B1]
+	(No symbol) [0x00007FF7C004EEA2]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:11:28,438 - Error processing 21557Haluk: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA22EC]
+	(No symbol) [0x00007FF7BFFA21B0]
+	(No symbol) [0x00007FF7BFFB82B1]
+	(No symbol) [0x00007FF7C004EEA2]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:11:28,468 - Error processing ASert45046: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA22EC]
+	(No symbol) [0x00007FF7BFFA21B0]
+	(No symbol) [0x00007FF7BFFB82B1]
+	(No symbol) [0x00007FF7C004EEA2]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:11:28,479 - Error processing 21769Kosker: Message: disconnected: Unable to receive message from renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA3972]
+	(No symbol) [0x00007FF7BFFA363A]
+	(No symbol) [0x00007FF7BFFA24F5]
+	(No symbol) [0x00007FF7BFFC45EA]
+	(No symbol) [0x00007FF7C004F8CB]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:11:30,151 - 54321Bastugay: active
+2025-01-13 01:11:30,575 - 21557Haluk: error
+2025-01-13 01:11:30,575 - 14614Gelincik: error
+2025-01-13 01:11:30,606 - ASert45046: error
+2025-01-13 01:11:30,606 - 21769Kosker: error
+2025-01-13 01:11:30,900 - ETerih38358: active
+2025-01-13 01:11:30,963 - 27592Gorgen: active
+2025-01-13 01:11:31,491 - 70678Coskun: active
+2025-01-13 01:11:31,507 - 70443Kara: active
+2025-01-13 01:11:31,507 - 80910Fat: active
+2025-01-13 01:12:57,331 - Processing batch: ['15302Kara', '86288Gorgen', '18450Fat', '64700Kosker', '48489Fet', '75763Haluk', '74608Gelincik', 'serta44512', 'ASert56764', '10989Necla']
+2025-01-13 01:13:09,825 - 15302Kara: active
+2025-01-13 01:13:12,819 - 86288Gorgen: active
+2025-01-13 01:13:15,436 - 18450Fat: active
+2025-01-13 01:13:17,738 - 64700Kosker: active
+2025-01-13 01:13:20,576 - 48489Fet: active
+2025-01-13 01:13:22,792 - 75763Haluk: active
+2025-01-13 01:13:25,160 - 74608Gelincik: active
+2025-01-13 01:13:27,413 - serta44512: active
+2025-01-13 01:13:29,703 - ASert56764: active
+2025-01-13 01:13:32,074 - 10989Necla: active
+2025-01-13 01:14:30,552 - Processing batch: ['15302Kara', '86288Gorgen', '18450Fat', '64700Kosker', '48489Fet']
+2025-01-13 01:14:40,045 - 15302Kara: active
+2025-01-13 01:14:44,288 - 86288Gorgen: active
+2025-01-13 01:14:49,145 - 18450Fat: active
+2025-01-13 01:14:51,348 - Error processing 64700Kosker: Message: disconnected: Unable to receive message from renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA3972]
+	(No symbol) [0x00007FF7BFFA363A]
+	(No symbol) [0x00007FF7BFFA24F5]
+	(No symbol) [0x00007FF7BFFC45EA]
+	(No symbol) [0x00007FF7C004F8CB]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:14:51,348 - 64700Kosker: error
+2025-01-13 01:14:51,349 - Error processing 48489Fet: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.265)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C04880D5+2992373]
+	(No symbol) [0x00007FF7C011BFD0]
+	(No symbol) [0x00007FF7BFFB590A]
+	(No symbol) [0x00007FF7BFFA22EC]
+	(No symbol) [0x00007FF7BFFA21B0]
+	(No symbol) [0x00007FF7BFFB82B1]
+	(No symbol) [0x00007FF7C004EEA2]
+	(No symbol) [0x00007FF7C002F113]
+	(No symbol) [0x00007FF7BFFFA918]
+	(No symbol) [0x00007FF7BFFFBA81]
+	GetHandleVerifier [0x00007FF7C04E6A2D+3379789]
+	GetHandleVerifier [0x00007FF7C04FC32D+3468109]
+	GetHandleVerifier [0x00007FF7C04F0043+3418211]
+	GetHandleVerifier [0x00007FF7C027C78B+847787]
+	(No symbol) [0x00007FF7C012757F]
+	(No symbol) [0x00007FF7C0122FC4]
+	(No symbol) [0x00007FF7C012315D]
+	(No symbol) [0x00007FF7C0112979]
+	BaseThreadInitThunk [0x00007FFF21BF259D+29]
+	RtlUserThreadStart [0x00007FFF22CCAF38+40]
+
+2025-01-13 01:14:51,349 - 48489Fet: error
